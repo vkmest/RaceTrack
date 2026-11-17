@@ -1,0 +1,3 @@
+# Keep Unix line endings everywhere: the track files and visualise.pl rely on them.
+* text=auto eol=lf
+*.pdf binary

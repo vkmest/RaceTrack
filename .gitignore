@@ -1,0 +1,15 @@
+# build output
+build/
+
+# report (kept locally, not published)
+report/
+
+# editors / OS
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+.DS_Store
+
+# third-party papers (copyrighted, not redistributed)
+Related Papers/
